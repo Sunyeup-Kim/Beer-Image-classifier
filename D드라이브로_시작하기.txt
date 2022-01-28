@@ -1,0 +1,4 @@
+Follow these steps:
+1. Open Anaconda Prompt
+2. Insert this command, jupyter notebook --notebook-dir=NameOfTheDrive:.
+As Example for Drive D, jupyter notebook --notebook-dir=D:
